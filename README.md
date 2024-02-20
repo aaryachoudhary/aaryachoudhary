@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aaryachoudhary/aaryachoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Aarya Choudhary</h1>
-<h3 align="center">I like to keep myself busy and this is one of those things that I do.</h3>
+<h3 align="center">I like to keep myself busy and this is one of those things.</h3>
 
-- 🌱 I’m currently learning **fulstack development**
+- 🌱 I’m currently learning **full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryachoudhary](https://github.com/aaryachoudhary)
 
-- 📫 How to reach me **m.aaryachoudhary@gmail.com**
+- 📫 You can reach me at ** m.aaryachoudhary@gmail.com**
 
-- ⚡ Fun fact **I get disappointed when I find out I'm not naturally good at something.**
+- ⚡ Fun fact. ** I get disappointed when I find out I'm not naturally good at something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
