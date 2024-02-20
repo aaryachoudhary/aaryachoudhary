@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryachoudhary](https://github.com/aaryachoudhary)
 
-- 📫 You can reach me at ** m.aaryachoudhary@gmail.com**
+- 📫 You can reach me at **m.aaryachoudhary@gmail.com**
 
-- ⚡ Fun fact. ** I get disappointed when I find out I'm not naturally good at something.**
+- ⚡ Fun fact. **I get disappointed when I find out I'm not naturally good at something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
