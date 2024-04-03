@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aarya Choudhary</h1>
 <h3 align="center">I like to keep myself busy and this is one of those things.</h3>
 
-- 🌱 I’m currently learning **full-stack development**
+- 🌱 I’m currently learning **whatever I can**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryachoudhary](https://github.com/aaryachoudhary)
 
